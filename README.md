@@ -1,5 +1,4 @@
 # Tableau-Story
-Tableau Story Car Sales Project
 
 # Flu-Season-Tableau
 Created a research hypothesis for medical staffing. Used Excel to clean and transform data, and Tableau to create a storyboard to present to stakeholders.
