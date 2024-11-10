@@ -1,6 +1,4 @@
-# Tableau-Story
-
-# Flu-Season-Tableau
+# Tableau-Story- Influenza Season In U.S.
 Created a research hypothesis for medical staffing. Used Excel to clean and transform data, and Tableau to create a storyboard to present to stakeholders.
 ---
 # Goal
